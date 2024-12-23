@@ -15,10 +15,10 @@ import {betebetProducts} from '../helpers/betebetProducts';
 import BackgroundImage from '../assets/main_background.png';
 
 const categories = [
-  {label: 'Традиционные пиццы'},
+  {label: 'Традиционные'},
   {label: 'Десерты'},
   {label: 'Закуски'},
-  {label: 'Оригинальные пиццы'},
+  {label: 'Оригинальные'},
 ];
 
 const OnwSportCategoryButton = ({label, active, onPress, image}) => (
